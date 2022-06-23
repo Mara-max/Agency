@@ -371,7 +371,7 @@ section {
 
 .slide {
     min-height: 100vh;
-    background-image: url(../images/hero1.jpg);
+    background-image: url(hero1.jpg);
     background-position: center;
     background-size: cover;
     display: flex;
@@ -384,7 +384,7 @@ section {
 
 .slide-two {
     min-height: 100vh;
-    background-image: url(../images/hero2.jpg);
+    background-image: url(hero2.jpg);
     background-position: center;
     background-size: cover;
 
