@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\coffee website\\coffee shop"
+		},
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\WebDevProjects\\delicious-main\\delicious-main"
+		},
+		{
+			"path": "..\\..\\..\\..\\MyPortfolio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MyPortfolio"
+	}
+}
